@@ -21,7 +21,7 @@ if (!$conn) {
 //$rows = array();
 
 //while($row = mysqli_fetch_assoc($result)) {
-//    $rows [] = $row;
+//    $rows[] = $row;
 // }
 
 if (isset($_GET["carModel"])) { //check for a parameter
